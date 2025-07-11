@@ -1,1 +1,1 @@
-# webd-evelopment-internship
+# webdevelopment-internship
